@@ -10,7 +10,7 @@ ThrowSense is a two-device interactive system consisting of a wearable sensing u
 The system is designed to provide intuitive, glanceable feedback for different throwing contexts (e.g., football, baseball), emphasizing physical interaction and real-world sensing over screen-only visualization.
 
 ### General Physical Sketch
-*(Insert image here: overall system showing wearable sensor + display device)*
+![IMG_4150](https://github.com/user-attachments/assets/79a2f130-8bda-489c-952e-e8d8064247e4)
 
 ---
 
@@ -47,7 +47,7 @@ The sensing device is a wrist- or forearm-mounted wearable that captures high-fr
 6. Final computed values are transmitted to the display device.
 
 ### Sensor Device Sketch
-*(Insert image here: detailed wearable device sketch with labeled components)*
+![IMG_4151](https://github.com/user-attachments/assets/a01e71d5-380f-44b6-a6f3-8e524b609feb)
 
 ---
 
@@ -90,7 +90,7 @@ The display device is a handheld or desk-mounted physical interface that present
    - **Processing:** calculations in progress  
 
 ### Display Device Sketch
-*(Insert image here: detailed display device sketch showing gauge, OLED, button, LED, and internal components)*
+![IMG_4152](https://github.com/user-attachments/assets/21080449-c612-419a-89f2-0d4b0947661e)
 
 ---
 
@@ -104,10 +104,10 @@ The display device is a handheld or desk-mounted physical interface that present
 - The display device focuses on visualization and user interaction.
 
 ### System Diagram — High-Level Communication
-*(Insert image here: block diagram showing IMU → sensing ESP32-C3 → display ESP32-C3 → motor/OLED/LED)*
+![IMG_4153](https://github.com/user-attachments/assets/14a7e2f0-3e6a-40f8-906c-323f5b877843)
 
 ### System Diagram — Data Flow
-*(Insert image here: detailed flowchart of signal processing and control)*
+![IMG_4154](https://github.com/user-attachments/assets/54bdb006-35fe-4768-a53d-da369959efb1)
 
 **Data Flow Explanation:**
 
