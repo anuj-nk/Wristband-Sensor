@@ -117,22 +117,6 @@ The display device is a handheld or desk-mounted physical interface that present
 4. Final metrics are transmitted to the display device.
 5. The display device maps speed to motor position and updates the OLED and LED indicators.
 
----
-
-## DSP / Algorithmic Approach
-
-The project uses lightweight DSP and physics-based modeling, including:
-
-- Low-pass filtering to reduce IMU noise
-- Threshold-based event detection for throw recognition
-- Peak detection on angular velocity
-- Object-specific parameter mapping
-- Simplified projectile motion estimation
-
-All calculations are designed to be explainable, deterministic, and suitable for real-time embedded execution.
-
----
-
 ## Datasheets
 
 All datasheets are included in the `/datasheets` directory, including:
@@ -142,24 +126,3 @@ All datasheets are included in the `/datasheets` directory, including:
 - 28BYJ-48 stepper motor datasheet  
 - ULN2003 driver datasheet  
 - SSD1306 OLED datasheet  
-
----
-
-## Repository & Submission Notes
-
-- This repository is updated iteratively throughout development.
-- A PDF export of this README will be submitted on Canvas.
-- Commit history screenshots for the datasheets directory will be provided.
-- The GitHub repository link will be shared via Canvas comments.
-
----
-
-## Project Status
-
-- [ ] Sensing device PCB  
-- [ ] Display device PCB  
-- [ ] Stepper motor control  
-- [ ] OLED interface  
-- [ ] LED status system  
-- [ ] Enclosure fabrication  
-- [ ] Demo-ready integration  
