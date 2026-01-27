@@ -104,10 +104,10 @@ The display device is a handheld or desk-mounted physical interface that present
 - The display device focuses on visualization and user interaction.
 
 ### System Diagram — High-Level Communication
-![IMG_4153](https://github.com/user-attachments/assets/14a7e2f0-3e6a-40f8-906c-323f5b877843)
+![SystemArchitecture](https://github.com/user-attachments/assets/b252ffa5-7cf2-4531-9718-0436ac34b81e)
 
 ### System Diagram — Data Flow
-![IMG_4154](https://github.com/user-attachments/assets/54bdb006-35fe-4768-a53d-da369959efb1)
+[514-Schematic.pdf](https://github.com/user-attachments/files/24873073/514-Schematic.pdf)
 
 **Data Flow Explanation:**
 
