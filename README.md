@@ -107,7 +107,7 @@ The display device is a handheld or desk-mounted physical interface that present
 ![SystemArchitecture](https://github.com/user-attachments/assets/b252ffa5-7cf2-4531-9718-0436ac34b81e)
 
 ### System Diagram — Data Flow
-[514-Schematic.pdf](https://github.com/user-attachments/files/24873073/514-Schematic.pdf)
+![514-Schematic_page-0001](https://github.com/user-attachments/assets/82740e4f-bf07-4776-bcc1-279d77006bf1)
 
 **Data Flow Explanation:**
 
