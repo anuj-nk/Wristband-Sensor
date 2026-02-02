@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Lab3.kicad_pro",
+    "filename": "514-Schematic.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -498,7 +498,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "Lab3.csv",
+    "bom_export_filename": "BOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -563,12 +563,6 @@
         },
         {
           "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Description",
           "name": "Description",
           "show": false
@@ -615,7 +609,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "514-Schematic",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -629,7 +623,7 @@
   },
   "sheets": [
     [
-      "87b0c607-f1db-4925-99f5-3b1f1b858d16",
+      "212b46c4-f12b-41b1-99e0-edb4aa818380",
       "Root"
     ]
   ],
