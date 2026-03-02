@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 2.1,
+          "height": 2.1,
+          "width": 2.1
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "514-Schematic.kicad_pro",
+    "filename": "514-Schematic-D.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -495,7 +495,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "514-Schematic-D.step",
       "svg": "",
       "vrml": ""
     },
@@ -634,7 +634,7 @@
   },
   "sheets": [
     [
-      "212b46c4-f12b-41b1-99e0-edb4aa818380",
+      "f8920caf-2b59-4e98-b446-74a7fe9a1934",
       "Root"
     ]
   ],

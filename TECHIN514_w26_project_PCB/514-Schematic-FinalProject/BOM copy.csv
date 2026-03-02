@@ -1,0 +1,13 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+C1,1,470uF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+"C2,C3",2,0.1 uF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+C4,1,2.2 nF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,~
+D1,1,LED - Red,,,,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,~
+J1,1,Conn_01x02,,,,Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,~
+R1,1,330Ω,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+"R2,R3",2,4.7k,,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~
+U1,1,28BYJ-48,,,,Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,https://www.mouser.com/datasheet/2/758/stepd-01-data-sheet-1143075.pdf?srsltid=AfmBOoqtA1YZMe7JTc6FzPlcpf13k58PG7SoKQfQPZXZbDsKkyVFGdRv
+U2,1,MPU-6050,,,,Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm,https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf
+U3,1,ULN2003,,,,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+"U4,U5",2,ESP32C3,,,,RF_Module:MCU_Seeed_ESP32C3,https://documentation.espressif.com/esp32-c3_datasheet_en.pdf
+U6,1,SSD1306,,,,Footprints:128x64OLED,https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf
